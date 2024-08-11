@@ -1,0 +1,4 @@
+En la operacion la fallas de los equipos afectan la operacion y productividad, confiabilidad actual 85%
+la IA puede analisar los datos base e indicar cuales serian las prioridades de la ejecucion de mtto, tambien puede indicar cual es sistemas mas critico en la operacion y mejor los ajustes
+datos arevisar cumplimiento de actividades de mtto, cumplimiento entre mttos, rata de fallas y sotck de repuestos.
+pregunta smart ¿como aumentar y mantener estable la confiabilidad de los equipos al 95% para el proximo semestre?
